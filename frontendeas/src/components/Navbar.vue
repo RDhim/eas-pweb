@@ -1,7 +1,7 @@
 <template>
   <ul>
       <li>
-          <a href="/"><h3>To-do List</h3></a>
+          <a href="/"><h3>Registration</h3></a>
       </li>
       <li>
           <a href="/introduction"><h3>Introduction</h3></a>
